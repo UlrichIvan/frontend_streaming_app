@@ -24,7 +24,7 @@ This is the steps to run application correctly:
 2. Clone project with git use command :
 
    ```cmd
-      $ git clone URL_PROJECT
+      $ git clone https://github.com/UlrichIvan/frontend_streaming_app.git
    ```
 
 3. Create the virtual `environment` for your project using command below:
