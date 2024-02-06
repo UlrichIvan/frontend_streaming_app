@@ -4,7 +4,7 @@ yfinance
 pandas_ta
 alpha_vantage
 stocknews
-#pymongo
+pymongo
 plotly-express
 matplotlib
 setuptools
